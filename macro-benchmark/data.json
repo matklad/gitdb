@@ -1,13 +1,3 @@
-{"timestamp":1704196679928,"revision":"aaa4a7ee49a33","measurements":[{"label":"executable size","value":1130501,"unit":"byte"},{"label":"build duration","value":64500,"unit":"ms"}]}
-{"timestamp":1704196764937,"revision":"c0a026c799e83","measurements":[{"label":"executable size","value":1140120,"unit":"byte"},{"label":"build duration","value":61964,"unit":"ms"}]}
-{"timestamp":1704196852079,"revision":"9db50f3e495e8","measurements":[{"label":"executable size","value":1123672,"unit":"byte"},{"label":"build duration","value":65913,"unit":"ms"}]}
-{"timestamp":1704196940253,"revision":"a419632fba84b","measurements":[{"label":"executable size","value":1107106,"unit":"byte"},{"label":"build duration","value":65906,"unit":"ms"}]}
-{"timestamp":1704197024489,"revision":"efb73e43a300b","measurements":[{"label":"executable size","value":1097681,"unit":"byte"},{"label":"build duration","value":64663,"unit":"ms"}]}
-{"timestamp":1704197112481,"revision":"0d2a8cda2998f","measurements":[{"label":"executable size","value":1139047,"unit":"byte"},{"label":"build duration","value":65588,"unit":"ms"}]}
-{"timestamp":1704197197211,"revision":"4cbfb9258f68d","measurements":[{"label":"executable size","value":1090948,"unit":"byte"},{"label":"build duration","value":63353,"unit":"ms"}]}
-{"timestamp":1704197283590,"revision":"700e3da322074","measurements":[{"label":"executable size","value":1138937,"unit":"byte"},{"label":"build duration","value":65537,"unit":"ms"}]}
-{"timestamp":1704197370346,"revision":"a9f358042b0b1","measurements":[{"label":"executable size","value":1066168,"unit":"byte"},{"label":"build duration","value":63252,"unit":"ms"}]}
-{"timestamp":1704197459171,"revision":"7c120805c177f","measurements":[{"label":"executable size","value":1119963,"unit":"byte"},{"label":"build duration","value":61548,"unit":"ms"}]}
 {"timestamp":1704213771,"revision":"todo","measurements":[{"label":"build time","value":41468,"unit":"ms"},{"label":"executable size","value":11844352,"unit":"bytes"}]}
 {"timestamp":1704215689,"revision":"todo","measurements":[{"label":"build time","value":42654,"unit":"ms"},{"label":"executable size","value":11844352,"unit":"bytes"}]}
 {"timestamp":1704215743,"revision":"todo","measurements":[{"label":"build time","value":42986,"unit":"ms"},{"label":"executable size","value":11844360,"unit":"bytes"}]}
